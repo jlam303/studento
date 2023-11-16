@@ -1,0 +1,23 @@
+const data = [
+  { age: 62, name: 'Clarissa', course: 'History' },
+  { age: 51, name: 'Cheston', course: 'Math' },
+  { age: 83, name: 'Felicia', course: 'History' },
+  { age: 84, name: 'Georgina', course: 'Math' },
+  { age: 39, name: 'Joana', course: 'Math' },
+  { age: 84, name: 'Ashlin', course: 'English' },
+  { age: 54, name: 'Rochette', course: 'Science' },
+  { age: 58, name: 'Ivie', course: 'English' },
+  { age: 96, name: 'Hedwiga', course: 'English' },
+  { age: 75, name: 'Spencer', course: 'Math' },
+  { age: 47, name: 'Trescha', course: 'History' },
+  { age: 43, name: 'Myrle', course: 'English' },
+  { age: 24, name: 'Matthieu', course: 'Math' },
+  { age: 98, name: 'Cecile', course: 'History' },
+  { age: 91, name: 'Mitch', course: 'English' },
+  { age: 51, name: 'August', course: 'Science' },
+  { age: 100, name: 'Nettie', course: 'Math' },
+  { age: 33, name: 'Kamillah', course: 'History' },
+  { age: 49, name: 'Delcine', course: 'English' },
+  { age: 43, name: 'Tony', course: 'Math' },
+];
+export default data;
